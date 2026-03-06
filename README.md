@@ -14,3 +14,5 @@ Test Scenarios:
 - Product search
 - Add to cart
 - Checkout workflow
+
+Work in progress – automation test cases and API validation scripts being developed.
